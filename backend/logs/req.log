@@ -1,0 +1,6 @@
+02-04-2023 	 13:00:49	GET	/api/products/infinite?limit=1&currentPage=1	http://localhost:3000
+02-04-2023 	 13:00:49	GET	/api/products	http://localhost:3000
+02-04-2023 	 13:00:49	GET	/api/products/infinite?limit=1&currentPage=1	http://localhost:3000
+02-04-2023 	 13:00:33	GET	/api/products/infinite?limit=1&currentPage=1	http://localhost:3000
+02-04-2023 	 13:00:33	GET	/api/products	http://localhost:3000
+02-04-2023 	 13:00:33	GET	/api/products/infinite?limit=1&currentPage=1	http://localhost:3000
